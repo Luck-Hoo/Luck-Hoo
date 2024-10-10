@@ -8,7 +8,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/springboot.svg" height="30" alt="java logo"  />
