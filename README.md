@@ -17,9 +17,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Luck-Hoo/Luck-Hoo/output/snake.svg" alt="Snake animation" />
 
 ###
 
