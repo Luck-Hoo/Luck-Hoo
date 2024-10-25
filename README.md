@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋! My name is Lucas and I'm a Student, from Brazil</h2>
-<p align="left">Hi, my name is Lucas. I'm a Brazilian law graduate passionate about programming, and I enjoy solving problems. I already have some initial experience in the market, but I continue to improve with the goal of becoming a Java back-end developer, focusing on Spring Boot.</p>
+<h2 align="left">Hi 👋! My name is Lucas and I'm a developer, from Brazil</h2>
+<p align="left">Hi, my name is Lucas. I'm a Brazilian law graduate passionate about programming, and I enjoy solving problems. I already have some initial experience in the market and I continue to improve with the goal of becoming a Java back-end developer, focusing on Spring Boot.</p>
 
 
 <div align="center">
