@@ -18,7 +18,7 @@
 </div>
 
 ###
-<h2 align="right">Contacts:</h2>
+<h2 align="right">Contacts:     </h2>
 <div align="right">
   <a href="www.linkedin.com/in/lucas-nunes-b06b25203" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
