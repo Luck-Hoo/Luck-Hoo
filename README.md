@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Lucas and I'm a developer, from Brazil</h2>
-<p align="left">A Brazilian law graduate with a passion for programming, experienced in problem-solving and with some initial market experience. Currently advancing toward a career as a Java back-end developer with a focus on Spring Boot (Core, Data, MVC, Security, Thymeleaf e JUnit.</p>
+<p align="left">A Brazilian law graduate with a passion for programming, experienced in problem-solving and with some initial market experience. Currently advancing toward a career as a Java back-end developer with a focus on Spring Boot (Core, Data, MVC, Security, Thymeleaf e JUnit).</p>
 
 
 <div align="center">
