@@ -20,13 +20,13 @@
 ###
 <h2 align="right">___Contacts___</h2>
 <div align="right">
-  <a href="www.linkedin.com/in/lucas-nunes-b06b25203" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-nunes-b06b25203" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="lucas98real@gmail.com" target="_blank">
+  <a href="mailto:lucas98real@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="lucasnunes98@hotmail.com" target="_blank">
+  <a href="mailto:lucasnunes98@hotmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
 </div>
